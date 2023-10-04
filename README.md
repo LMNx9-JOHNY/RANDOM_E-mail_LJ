@@ -1,1 +1,2 @@
-# RANDOM_E-mail_LJ
+# RANDOM_E-mail_LJ 💚
+# Random & Email Cloning Tool 🔥
