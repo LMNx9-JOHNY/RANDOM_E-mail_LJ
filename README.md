@@ -1,13 +1,14 @@
-# LMNx9 E-MAIL CLONE 
-# > JUST FREE & FIRE 💝
+# LMNx9 E-MAIL CLONE v2
 
 # ✅ Installations ->>
-    apt update && apt upgrade
-    git clone --depth=1 https://github.com/LMNx9-JOHNY/RANDOM_E-mail_LJ
-    cd RANDOM_E-mail_LJ
-    chmod +x *
-    python E-MAIL_v1.0.py
 
+    rm -rf E-MAIL_CLONE
+    apt update && upgrade
+    dpkg --configure -a
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/E-MAIL_CLONE
+    cd E-MAIL_CLONE
+    chmod +x *
+    python LMNx9.py
 
 # 💚 Join For More ->>
-https://t.me/DARK_TEAM_LMNx9
+https://t.me/TEAM_LMNx9
